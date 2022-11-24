@@ -36,7 +36,7 @@
   /* CSS for Section */
   .box1 {
     background-color: blanchedalmond;
-    height: 30vh;
+    /* height: 30vh; */
     width: 30vw;
     position: absolute;
     display: inline-block;
@@ -49,7 +49,6 @@
   }
   .box2 {
     background-color: rgb(241, 47, 8);
-    height: 30vh;
     width: 30vw;
     position: relative;
     display: inline-block;
@@ -61,7 +60,7 @@
   }
   .para1 {
     border: 2px red solid;
-    padding: 5px;
+    padding: 5px;  
   }
   .para1 {
     background-color: rgb(89, 238, 81);
